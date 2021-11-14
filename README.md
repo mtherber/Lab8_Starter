@@ -1,4 +1,5 @@
 # Lab 8 - Starter
+Mitchell Herbert
 
 1. I choose option 1 (Github actions). This ensures that everyone can see the results of any unit tests so they know whether code is buggy before working with it. However, I would not say that option 2 isn't without merit - it helps to ensure that buggy code is never pushed to begin with.
 2. No. End to end testing is meant for simulating "user actions from start to finish." The result of a function would be better tested using unit tests.
